@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APDS3.Server", "APDS3.Server\APDS3.Server.csproj", "{8FF660AD-F2AD-4AD9-9396-4998037506E2}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "apds3.client", "apds3.client\apds3.client.esproj", "{B0B06340-AD43-4BE7-814E-4B5B7F054017}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FF660AD-F2AD-4AD9-9396-4998037506E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FF660AD-F2AD-4AD9-9396-4998037506E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FF660AD-F2AD-4AD9-9396-4998037506E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FF660AD-F2AD-4AD9-9396-4998037506E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0B06340-AD43-4BE7-814E-4B5B7F054017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B06340-AD43-4BE7-814E-4B5B7F054017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B06340-AD43-4BE7-814E-4B5B7F054017}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B0B06340-AD43-4BE7-814E-4B5B7F054017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B06340-AD43-4BE7-814E-4B5B7F054017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0B06340-AD43-4BE7-814E-4B5B7F054017}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6C0067D-697D-43EE-98F4-577783CE6E30}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\lab_services_student\source\repos\APDS3\APDS3.Server\obj\Debug\net8.0\APDS3.Server.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\APDS3\APDS3.Server\obj\Debug\net8.0\spa.proxy.json
+C:\Users\lab_services_student\source\repos\APDS3\APDS3.Server\obj\Debug\net8.0\APDS3.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\APDS3\APDS3.Server\obj\Debug\net8.0\APDS3.Server.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\APDS3\APDS3.Server\obj\Debug\net8.0\APDS3.Server.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\APDS3\APDS3.Server\obj\Debug\net8.0\APDS3.Server.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\APDS3\APDS3.Server\obj\Debug\net8.0\APDS3.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\APDS3\APDS3.Server\obj\Debug\net8.0\APDS3.Server.MvcApplicationPartsAssemblyInfo.cache
